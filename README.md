@@ -1,6 +1,6 @@
 # Desafio 3 - Microsoft Azure SQL 
 
-Repositório com anotações, resumos e imagens do Desafio 3 do Bootcamp Microsoft AI for Tech - Azure Databricks (DIO).
+Repositório com anotações, resumos e imagens do Desafio 3 do Bootcamp Microsoft-azure-az-900.
 
 ## 📌 Objetivo
 Praticar a criação e configuração de uma instância de **Banco de Dados SQL** no **Microsoft Azure** e documentar o passo a passo para futuras referências.
