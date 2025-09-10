@@ -53,4 +53,5 @@ desafio-03-azure-sql/
 ✍️ Autor
 
 Rodrigo – Analista de Dados
-Bootcamp: Microsoft AI for Tech - Azure Databricks
+Bootcamp: microsoft-azure-az-900
+
